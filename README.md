@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Hello, my name is FANCC.
+### Hello, my name is FANCC. Aim to become a full-stack engineer!
 
 > Learning is a continuous process of improvement, and there is no end to learning.
 
